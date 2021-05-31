@@ -33,7 +33,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="164dc3ca-8fdc-470a-aa23-3dd17c354ba3" name="Default Changelist" comment="updataasd" />
+    <list default="true" id="164dc3ca-8fdc-470a-aa23-3dd17c354ba3" name="Default Changelist" comment="updata" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -55,7 +55,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../../.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1tHKw62hss3us8omS66zEFLOtZE" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -172,7 +172,21 @@
       <option name="project" value="LOCAL" />
       <updated>1622477075395</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="updata">
+      <created>1622480791038</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1622480791038</updated>
+    </task>
+    <task id="LOCAL-00003" summary="updata">
+      <created>1622480816862</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1622480816862</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -248,18 +262,22 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="540" y="262" key="IDE.errors.dialog/0.0.1920.1040/1920.-288.1707.920@0.0.1920.1040" timestamp="1622462473228" />
-    <state x="591" y="204" key="SettingsEditor" timestamp="1622480402296">
+    <state x="591" y="204" key="SettingsEditor" timestamp="1622480585210">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="591" y="204" key="SettingsEditor/0.0.1920.1040/1920.-288.1707.920@0.0.1920.1040" timestamp="1622480402296" />
+    <state x="591" y="204" key="SettingsEditor/0.0.1920.1040/1920.-288.1707.920@0.0.1920.1040" timestamp="1622480585210" />
     <state x="904" y="415" key="VCS.EditChangelistDialog" timestamp="1622480229418">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="904" y="415" key="VCS.EditChangelistDialog/0.0.1920.1040/1920.-288.1707.920@0.0.1920.1040" timestamp="1622480229418" />
-    <state x="684" y="340" key="Vcs.Push.Dialog.v2" timestamp="1622479259039">
+    <state x="684" y="340" key="Vcs.Push.Dialog.v2" timestamp="1622480898760">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="684" y="340" key="Vcs.Push.Dialog.v2/0.0.1920.1040/1920.-288.1707.920@0.0.1920.1040" timestamp="1622479259039" />
+    <state x="684" y="340" key="Vcs.Push.Dialog.v2/0.0.1920.1040/1920.-288.1707.920@0.0.1920.1040" timestamp="1622480898760" />
+    <state x="280" y="253" width="965" height="690" key="com.intellij.openapi.vcs.changes.SpecificFilesViewDialog" timestamp="1622480749277">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="280" y="253" width="965" height="690" key="com.intellij.openapi.vcs.changes.SpecificFilesViewDialog/0.0.1920.1040/1920.-288.1707.920@0.0.1920.1040" timestamp="1622480749277" />
     <state x="616" y="240" key="run.anything.popup" timestamp="1622460466362">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
