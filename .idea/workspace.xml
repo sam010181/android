@@ -33,7 +33,9 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="164dc3ca-8fdc-470a-aa23-3dd17c354ba3" name="Default Changelist" comment="updata" />
+    <list default="true" id="164dc3ca-8fdc-470a-aa23-3dd17c354ba3" name="Default Changelist" comment="updata">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -186,7 +188,21 @@
       <option name="project" value="LOCAL" />
       <updated>1622480816862</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="updata">
+      <created>1622481053477</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1622481053477</updated>
+    </task>
+    <task id="LOCAL-00005" summary="updata">
+      <created>1622481241528</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1622481241528</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -270,14 +286,14 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="904" y="415" key="VCS.EditChangelistDialog/0.0.1920.1040/1920.-288.1707.920@0.0.1920.1040" timestamp="1622480229418" />
-    <state x="684" y="340" key="Vcs.Push.Dialog.v2" timestamp="1622480898760">
+    <state x="684" y="340" key="Vcs.Push.Dialog.v2" timestamp="1622482805409">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="684" y="340" key="Vcs.Push.Dialog.v2/0.0.1920.1040/1920.-288.1707.920@0.0.1920.1040" timestamp="1622480898760" />
-    <state x="280" y="253" width="965" height="690" key="com.intellij.openapi.vcs.changes.SpecificFilesViewDialog" timestamp="1622480749277">
+    <state x="684" y="340" key="Vcs.Push.Dialog.v2/0.0.1920.1040/1920.-288.1707.920@0.0.1920.1040" timestamp="1622482805409" />
+    <state x="718" y="271" width="965" height="667" key="com.intellij.openapi.vcs.changes.SpecificFilesViewDialog" timestamp="1622481221917">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="280" y="253" width="965" height="690" key="com.intellij.openapi.vcs.changes.SpecificFilesViewDialog/0.0.1920.1040/1920.-288.1707.920@0.0.1920.1040" timestamp="1622480749277" />
+    <state x="718" y="271" width="965" height="667" key="com.intellij.openapi.vcs.changes.SpecificFilesViewDialog/0.0.1920.1040/1920.-288.1707.920@0.0.1920.1040" timestamp="1622481221917" />
     <state x="616" y="240" key="run.anything.popup" timestamp="1622460466362">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
