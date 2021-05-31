@@ -1,0 +1,114 @@
+[
+    {
+        "merged": "C:\\Users\\Soul\\Desktop\\android\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\bottom_sheet_layout.xml",
+        "source": "C:\\Users\\Soul\\Desktop\\android\\app\\src\\main\\res\\layout\\bottom_sheet_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Soul\\Desktop\\android\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_first.xml",
+        "source": "C:\\Users\\Soul\\Desktop\\android\\app\\src\\main\\res\\layout\\fragment_first.xml"
+    },
+    {
+        "merged": "C:\\Users\\Soul\\Desktop\\android\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\content_login.xml",
+        "source": "C:\\Users\\Soul\\Desktop\\android\\app\\src\\main\\res\\layout\\content_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\Soul\\Desktop\\android\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_login.xml",
+        "source": "C:\\Users\\Soul\\Desktop\\android\\app\\src\\main\\res\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\Soul\\Desktop\\android\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_second3.xml",
+        "source": "C:\\Users\\Soul\\Desktop\\android\\app\\src\\main\\res\\layout\\fragment_second3.xml"
+    },
+    {
+        "merged": "C:\\Users\\Soul\\Desktop\\android\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\content_main.xml",
+        "source": "C:\\Users\\Soul\\Desktop\\android\\app\\src\\main\\res\\layout\\content_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Soul\\Desktop\\android\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_second5.xml",
+        "source": "C:\\Users\\Soul\\Desktop\\android\\app\\src\\main\\res\\layout\\fragment_second5.xml"
+    },
+    {
+        "merged": "C:\\Users\\Soul\\Desktop\\android\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_main.xml",
+        "source": "C:\\Users\\Soul\\Desktop\\android\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Soul\\Desktop\\android\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\content_homepage.xml",
+        "source": "C:\\Users\\Soul\\Desktop\\android\\app\\src\\main\\res\\layout\\content_homepage.xml"
+    },
+    {
+        "merged": "C:\\Users\\Soul\\Desktop\\android\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_register.xml",
+        "source": "C:\\Users\\Soul\\Desktop\\android\\app\\src\\main\\res\\layout\\activity_register.xml"
+    },
+    {
+        "merged": "C:\\Users\\Soul\\Desktop\\android\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_homepage.xml",
+        "source": "C:\\Users\\Soul\\Desktop\\android\\app\\src\\main\\res\\layout\\activity_homepage.xml"
+    },
+    {
+        "merged": "C:\\Users\\Soul\\Desktop\\android\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_style_list.xml",
+        "source": "C:\\Users\\Soul\\Desktop\\android\\app\\src\\main\\res\\layout\\fragment_style_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\Soul\\Desktop\\android\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_first2.xml",
+        "source": "C:\\Users\\Soul\\Desktop\\android\\app\\src\\main\\res\\layout\\fragment_first2.xml"
+    },
+    {
+        "merged": "C:\\Users\\Soul\\Desktop\\android\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_first5.xml",
+        "source": "C:\\Users\\Soul\\Desktop\\android\\app\\src\\main\\res\\layout\\fragment_first5.xml"
+    },
+    {
+        "merged": "C:\\Users\\Soul\\Desktop\\android\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\image_item.xml",
+        "source": "C:\\Users\\Soul\\Desktop\\android\\app\\src\\main\\res\\layout\\image_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Soul\\Desktop\\android\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_lanuage.xml",
+        "source": "C:\\Users\\Soul\\Desktop\\android\\app\\src\\main\\res\\layout\\activity_lanuage.xml"
+    },
+    {
+        "merged": "C:\\Users\\Soul\\Desktop\\android\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\content_startpage.xml",
+        "source": "C:\\Users\\Soul\\Desktop\\android\\app\\src\\main\\res\\layout\\content_startpage.xml"
+    },
+    {
+        "merged": "C:\\Users\\Soul\\Desktop\\android\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_second4.xml",
+        "source": "C:\\Users\\Soul\\Desktop\\android\\app\\src\\main\\res\\layout\\fragment_second4.xml"
+    },
+    {
+        "merged": "C:\\Users\\Soul\\Desktop\\android\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\alert_dialog.xml",
+        "source": "C:\\Users\\Soul\\Desktop\\android\\app\\src\\main\\res\\layout\\alert_dialog.xml"
+    },
+    {
+        "merged": "C:\\Users\\Soul\\Desktop\\android\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_first3.xml",
+        "source": "C:\\Users\\Soul\\Desktop\\android\\app\\src\\main\\res\\layout\\fragment_first3.xml"
+    },
+    {
+        "merged": "C:\\Users\\Soul\\Desktop\\android\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\content_viewimage.xml",
+        "source": "C:\\Users\\Soul\\Desktop\\android\\app\\src\\main\\res\\layout\\content_viewimage.xml"
+    },
+    {
+        "merged": "C:\\Users\\Soul\\Desktop\\android\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_getselfimage.xml",
+        "source": "C:\\Users\\Soul\\Desktop\\android\\app\\src\\main\\res\\layout\\activity_getselfimage.xml"
+    },
+    {
+        "merged": "C:\\Users\\Soul\\Desktop\\android\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_second.xml",
+        "source": "C:\\Users\\Soul\\Desktop\\android\\app\\src\\main\\res\\layout\\fragment_second.xml"
+    },
+    {
+        "merged": "C:\\Users\\Soul\\Desktop\\android\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_first4.xml",
+        "source": "C:\\Users\\Soul\\Desktop\\android\\app\\src\\main\\res\\layout\\fragment_first4.xml"
+    },
+    {
+        "merged": "C:\\Users\\Soul\\Desktop\\android\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_second2.xml",
+        "source": "C:\\Users\\Soul\\Desktop\\android\\app\\src\\main\\res\\layout\\fragment_second2.xml"
+    },
+    {
+        "merged": "C:\\Users\\Soul\\Desktop\\android\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_allimage.xml",
+        "source": "C:\\Users\\Soul\\Desktop\\android\\app\\src\\main\\res\\layout\\activity_allimage.xml"
+    },
+    {
+        "merged": "C:\\Users\\Soul\\Desktop\\android\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_startpage.xml",
+        "source": "C:\\Users\\Soul\\Desktop\\android\\app\\src\\main\\res\\layout\\activity_startpage.xml"
+    },
+    {
+        "merged": "C:\\Users\\Soul\\Desktop\\android\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_viewimage.xml",
+        "source": "C:\\Users\\Soul\\Desktop\\android\\app\\src\\main\\res\\layout\\activity_viewimage.xml"
+    }
+]

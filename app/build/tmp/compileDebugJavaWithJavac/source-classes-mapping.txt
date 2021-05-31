@@ -1,0 +1,65 @@
+org/tensorflow/lite/examples/styletransfer/databinding/ActivityRegisterBinding.java
+ org.tensorflow.lite.examples.styletransfer.databinding.ActivityRegisterBinding
+org/tensorflow/lite/examples/styletransfer/databinding/FragmentSecondBinding.java
+ org.tensorflow.lite.examples.styletransfer.databinding.FragmentSecondBinding
+org/tensorflow/lite/examples/styletransfer/databinding/FragmentSecond2Binding.java
+ org.tensorflow.lite.examples.styletransfer.databinding.FragmentSecond2Binding
+org/tensorflow/lite/examples/styletransfer/databinding/ContentMainBinding.java
+ org.tensorflow.lite.examples.styletransfer.databinding.ContentMainBinding
+org/tensorflow/lite/examples/styletransfer/databinding/ActivityLoginBinding.java
+ org.tensorflow.lite.examples.styletransfer.databinding.ActivityLoginBinding
+org/tensorflow/lite/examples/styletransfer/databinding/FragmentSecond3Binding.java
+ org.tensorflow.lite.examples.styletransfer.databinding.FragmentSecond3Binding
+org/tensorflow/lite/examples/styletransfer/databinding/FragmentFirst2Binding.java
+ org.tensorflow.lite.examples.styletransfer.databinding.FragmentFirst2Binding
+org/tensorflow/lite/examples/styletransfer/databinding/FragmentSecond4Binding.java
+ org.tensorflow.lite.examples.styletransfer.databinding.FragmentSecond4Binding
+org/tensorflow/lite/examples/styletransfer/databinding/BottomSheetLayoutBinding.java
+ org.tensorflow.lite.examples.styletransfer.databinding.BottomSheetLayoutBinding
+org/tensorflow/lite/examples/styletransfer/LanguageUtil.java
+ org.tensorflow.lite.examples.styletransfer.LanguageUtil
+ org.tensorflow.lite.examples.styletransfer.LanguageUtil$1
+org/tensorflow/lite/examples/styletransfer/databinding/FragmentSecond5Binding.java
+ org.tensorflow.lite.examples.styletransfer.databinding.FragmentSecond5Binding
+org/tensorflow/lite/examples/styletransfer/databinding/ContentLoginBinding.java
+ org.tensorflow.lite.examples.styletransfer.databinding.ContentLoginBinding
+org/tensorflow/lite/examples/styletransfer/databinding/FragmentFirst3Binding.java
+ org.tensorflow.lite.examples.styletransfer.databinding.FragmentFirst3Binding
+org/tensorflow/lite/examples/styletransfer/databinding/ActivityAllimageBinding.java
+ org.tensorflow.lite.examples.styletransfer.databinding.ActivityAllimageBinding
+org/tensorflow/lite/examples/styletransfer/databinding/FragmentFirst4Binding.java
+ org.tensorflow.lite.examples.styletransfer.databinding.FragmentFirst4Binding
+org/tensorflow/lite/examples/styletransfer/databinding/ImageItemBinding.java
+ org.tensorflow.lite.examples.styletransfer.databinding.ImageItemBinding
+org/tensorflow/lite/examples/styletransfer/databinding/FragmentFirst5Binding.java
+ org.tensorflow.lite.examples.styletransfer.databinding.FragmentFirst5Binding
+org/tensorflow/lite/examples/styletransfer/BuildConfig.java
+ org.tensorflow.lite.examples.styletransfer.BuildConfig
+org/tensorflow/lite/examples/styletransfer/databinding/ActivityViewimageBinding.java
+ org.tensorflow.lite.examples.styletransfer.databinding.ActivityViewimageBinding
+org/tensorflow/lite/examples/styletransfer/databinding/ActivityHomepageBinding.java
+ org.tensorflow.lite.examples.styletransfer.databinding.ActivityHomepageBinding
+org/tensorflow/lite/examples/styletransfer/databinding/ContentHomepageBinding.java
+ org.tensorflow.lite.examples.styletransfer.databinding.ContentHomepageBinding
+org/tensorflow/lite/examples/styletransfer/databinding/AlertDialogBinding.java
+ org.tensorflow.lite.examples.styletransfer.databinding.AlertDialogBinding
+org/tensorflow/lite/examples/styletransfer/databinding/FragmentFirstBinding.java
+ org.tensorflow.lite.examples.styletransfer.databinding.FragmentFirstBinding
+org/tensorflow/lite/examples/styletransfer/SpUserUtils.java
+ org.tensorflow.lite.examples.styletransfer.SpUserUtils
+org/tensorflow/lite/examples/styletransfer/databinding/ActivityMainBinding.java
+ org.tensorflow.lite.examples.styletransfer.databinding.ActivityMainBinding
+org/tensorflow/lite/examples/styletransfer/databinding/ActivityStartpageBinding.java
+ org.tensorflow.lite.examples.styletransfer.databinding.ActivityStartpageBinding
+org/tensorflow/lite/examples/styletransfer/databinding/ActivityLanuageBinding.java
+ org.tensorflow.lite.examples.styletransfer.databinding.ActivityLanuageBinding
+org/tensorflow/lite/examples/styletransfer/databinding/FragmentStyleListBinding.java
+ org.tensorflow.lite.examples.styletransfer.databinding.FragmentStyleListBinding
+org/tensorflow/lite/examples/styletransfer/MainActivity3.java
+ org.tensorflow.lite.examples.styletransfer.MainActivity3
+org/tensorflow/lite/examples/styletransfer/databinding/ContentStartpageBinding.java
+ org.tensorflow.lite.examples.styletransfer.databinding.ContentStartpageBinding
+org/tensorflow/lite/examples/styletransfer/databinding/ActivityGetselfimageBinding.java
+ org.tensorflow.lite.examples.styletransfer.databinding.ActivityGetselfimageBinding
+org/tensorflow/lite/examples/styletransfer/databinding/ContentViewimageBinding.java
+ org.tensorflow.lite.examples.styletransfer.databinding.ContentViewimageBinding
